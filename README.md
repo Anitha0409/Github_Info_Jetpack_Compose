@@ -1,0 +1,1 @@
+Upon entering the github username, it displays the username, user profile picture and the list of repos. Upon clicking the repos, you will directed to another page. This page will display ownername, Reponame, lastly updated information,forks count and stargazers count respectively.
